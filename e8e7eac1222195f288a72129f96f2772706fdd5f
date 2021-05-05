@@ -1,0 +1,1 @@
+{"jobID":"bd6aed90-56da-2a74-f706-d5869e2b1633","spec":{"type":"policy","cause":{"Message":"","User":"Mike Mulvaney \u003cmmulvaney@bna.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
